@@ -8,11 +8,11 @@ Fullstack 4-in-a-Row is a real-time multiplayer game built using AWS Amplify, AW
 
 ## Features
 
-- 🎮 Real-time 4-in-a-Row gameplay
-- 💬 In-game chat system
-- 🔐 User authentication
-- 🎟️ Game room creation and joining
-- 📡 Powered by AWS AppSync Event API
+- Real-time 4-in-a-Row gameplay
+- In-game chat system
+- User authentication
+- Game room creation and joining
+- Powered by AWS AppSync Event API
 
 ## Tech Stack
 
